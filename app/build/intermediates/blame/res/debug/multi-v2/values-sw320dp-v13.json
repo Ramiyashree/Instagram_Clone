@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ramiya Shree\\AndroidStudioProjects\\InstagramClone\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ramiya Shree\\.gradle\\caches\\transforms-1\\files-1.1\\prettydialog-1.0.4.aar\\23785f3ea45926098b8b054d916ad7c5\\res\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,155,206,254,302,351",
+                        "endColumns": "48,50,50,47,47,48,46",
+                        "endOffsets": "99,150,201,249,297,346,393"
+                    }
+                }
+            ]
+        }
+    ]
+}
